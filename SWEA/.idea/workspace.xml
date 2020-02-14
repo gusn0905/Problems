@@ -12,45 +12,35 @@
     <session id="-1599994364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="10" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="11" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="59" />
+          <entry key="py" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="59" />
+          <entry key="Python" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="151" />
+          <entry key="py" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="151" />
+          <entry key="Python" value="152" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D4/1258.[SW 문제해결 응용]행렬 찾기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D2/1954.달팽이 숫자.py" />
         <option value="$PROJECT_DIR$/D2/1989.초심자의 회문 검사.py" />
         <option value="$PROJECT_DIR$/D2/1959.두 개의 숫자열.py" />
         <option value="$PROJECT_DIR$/D5/[S/W 문제해결 응용]7일차 금속막대.py" />
@@ -116,6 +105,7 @@
         <option value="$PROJECT_DIR$/D3/1216. 회문2.py" />
         <option value="$PROJECT_DIR$/D4/1226.[SW 문제해결 기본]미로1.py" />
         <option value="$PROJECT_DIR$/D4/1258.[SW 문제해결 응용]행렬 찾기.py" />
+        <option value="$PROJECT_DIR$/D6/1267.[SW문제해결 응용]작업순서.py" />
       </list>
     </option>
   </component>
@@ -225,7 +215,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,13 +258,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D2/1954.달팽이 숫자.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D2/1989.초심자의 회문 검사.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -586,6 +568,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="48" column="40" selection-start-line="1" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D6/1267.[SW문제해결 응용]작업순서.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
