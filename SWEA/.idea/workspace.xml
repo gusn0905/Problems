@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03b7d67b-1991-4e17-bb83-b16f4e9154fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/사다리타기.py" beforeDir="false" />
-    </list>
+    <list default="true" id="03b7d67b-1991-4e17-bb83-b16f4e9154fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,35 +12,45 @@
     <session id="-1599994364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="9" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="50" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="50" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="133" />
+          <entry key="py" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="133" />
+          <entry key="Python" value="151" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D4/1258.[SW 문제해결 응용]행렬 찾기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,13 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D2/1926.간단한369게임.py" />
-        <option value="$PROJECT_DIR$/D2/2007.패턴 마디의 길이.py" />
-        <option value="$PROJECT_DIR$/D2/1928.Base64 Decider.py" />
-        <option value="$PROJECT_DIR$/D2/1940.가랏!RC카!.py" />
-        <option value="$PROJECT_DIR$/D2/2005.파스칼 삼각형.py" />
-        <option value="$PROJECT_DIR$/D2/D2.py" />
-        <option value="$PROJECT_DIR$/D2/2001.파리 퇴치.py" />
         <option value="$PROJECT_DIR$/D2/1954.달팽이 숫자.py" />
         <option value="$PROJECT_DIR$/D2/1989.초심자의 회문 검사.py" />
         <option value="$PROJECT_DIR$/D2/1959.두 개의 숫자열.py" />
@@ -108,6 +108,14 @@
         <option value="$PROJECT_DIR$/D3/1220.[SW 문제해결 기본]Magnetic.py" />
         <option value="$PROJECT_DIR$/D3/1217. [SW 문제해결 기본] 거듭 제곱.py" />
         <option value="$PROJECT_DIR$/D3/1213.[SW 문제해결 기본] String.py" />
+        <option value="$PROJECT_DIR$/D2/4869.[파이썬SW문제해결 기본]종이붙이기.py" />
+        <option value="$PROJECT_DIR$/D2/4866.[파이썬SW문제해결 기본] 괄호검사.py" />
+        <option value="$PROJECT_DIR$/D2/4871.[파이썬SW문제해결 기본]그래프 경로.py" />
+        <option value="$PROJECT_DIR$/D2/4873.[파이썬SW문제해결 기본]반복문자 지우기.py" />
+        <option value="$PROJECT_DIR$/D3/1215. 회문1.py" />
+        <option value="$PROJECT_DIR$/D3/1216. 회문2.py" />
+        <option value="$PROJECT_DIR$/D4/1226.[SW 문제해결 기본]미로1.py" />
+        <option value="$PROJECT_DIR$/D4/1258.[SW 문제해결 응용]행렬 찾기.py" />
       </list>
     </option>
   </component>
@@ -124,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +158,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,6 +225,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,48 +269,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D2/1926.간단한369게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/2007.패턴 마디의 길이.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/1928.Base64 Decider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/1940.가랏!RC카!.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/2005.파스칼 삼각형.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/2001.파리 퇴치.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D2/1954.달팽이 숫자.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -460,13 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D4/사다리타기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/사다리타기.py" />
     <entry file="file://$PROJECT_DIR$/D4/6109. 추억의 2048 게임.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -492,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/4861.[파이썬 SW 문제해결 기본] 회문.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="40" selection-start-line="3" selection-end-line="39" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -576,6 +530,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/4869.[파이썬SW문제해결 기본]종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/4866.[파이썬SW문제해결 기본] 괄호검사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/4871.[파이썬SW문제해결 기본]그래프 경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/4873.[파이썬SW문제해결 기본]반복문자 지우기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/4861.[파이썬 SW 문제해결 기본] 회문.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3/1215. 회문1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3/1216. 회문2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/1226.[SW 문제해결 기본]미로1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="40" selection-start-line="1" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/1258.[SW 문제해결 응용]행렬 찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
